@@ -1,5 +1,5 @@
 # ChallengeOneJavaConversorMoedas
-Conversor de Moedas - Chanllenge BackEnd Java One Oracle.
+Conversor de Moedas - Challenge BackEnd Java One Oracle.
 # 💱 Conversor de Moedas Avançado (Java + API)
 
 Este projeto é um conversor de moedas desenvolvido em Java com interação via console. Ele consome uma API pública para realizar conversões de câmbio em tempo real, salvando os resultados em arquivos .txt e mantendo um log de erros. O sistema inclui recursos avançados como cache de taxas, visualização de histórico e interface colorida.
