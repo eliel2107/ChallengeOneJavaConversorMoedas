@@ -113,6 +113,3 @@ O sistema implementa tratamento robusto de erros para lidar com:
 ## 📝 Autor
 
 Eliel de Mesquita Cunha
-
-
-```
