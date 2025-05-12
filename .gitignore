@@ -89,4 +89,5 @@ application-dev.properties
 *.bak
 *.swp
 *~.nib
-local.properties
+local.properties# Project exclude paths
+/out/
